@@ -86,6 +86,7 @@ public class Transfomation : MonoBehaviour
     [SerializeField]
     private int Beta_modifier;
 
+
     // Used to get coordinates of Observer
     public Transform Observer;
 
@@ -145,7 +146,7 @@ public class Transfomation : MonoBehaviour
 
         
 
-        mesh.RecalculateNormals();
+        //mesh.RecalculateNormals();
         mesh.RecalculateBounds();
     }
 
@@ -180,8 +181,9 @@ public class Transfomation : MonoBehaviour
         }
         // wavelength thing
 
-        rendererComponent = GetComponent<Renderer>();
-        Debug.Log(rendererComponent.material.color);
+        //rendererComponent = GetComponent<Renderer>();
+        //Debug.Log(rendererComponent.material.color);
+        Debug.Log(1/Time.deltaTime);
 
         /*
 

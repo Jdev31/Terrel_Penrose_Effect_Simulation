@@ -1,0 +1,4 @@
+Chancellor class Star Destroyer  by Memnoch1234 on Thingiverse: https://www.thingiverse.com/thing:6195624
+
+Summary:
+Found a low detailed model called chancellor star destroyer so I did some digging and found this one consistent side view, so I decided to try to remake it. Ended up using a valiant as the base and built it up with pieces of veragitor and some custom partsveragitor from yodenmod 2021https://steamcommunity.com/sharedfiles/filedetails/?id=2519672553&amp;searchtext=valiant from Fournier's RAW Submodhttps://steamcommunity.com/sharedfiles/filedetails/?id=1973338632&amp;searchtext=  and a piece of the praetor from Fall of the Republichttps://steamcommunity.com/sharedfiles/filedetails/?id=1976399102&amp;searchtext=
